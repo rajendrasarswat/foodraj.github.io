@@ -1,2 +1,1 @@
-# foodraj.github.io
-food ordering site
+simple project on food delivery site
